@@ -17,9 +17,9 @@
       </concept>
     </language>
   </registry>
-  <node concept="2ZGND1" id="35KX9IPP_iD">
-    <property role="TrG5h" value="TestProject" />
-    <property role="2ZGNCW" value="12000" />
+  <node concept="2ZGND1" id="71K8Wa4y1Kq">
+    <property role="TrG5h" value="Adam" />
+    <property role="2ZGNCW" value="123213" />
   </node>
 </model>
 
