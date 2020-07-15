@@ -21,5 +21,9 @@
     <property role="TrG5h" value="TestProject" />
     <property role="2ZGNCW" value="12000" />
   </node>
+  <node concept="2ZGND1" id="dEf3Dt45Ud">
+    <property role="TrG5h" value="Abdol" />
+    <property role="2ZGNCW" value="9000" />
+  </node>
 </model>
 
